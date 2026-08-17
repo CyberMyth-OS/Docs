@@ -17,7 +17,7 @@ This page lists the devices that CyberMyth 1.0 supports and the current status.
 | **Device**  | **Status**| **Version** | **Linux Kernel** |
 |--------------|-------|-----|-----|
 |AMD64 (Intel based Chipsets) | Alpha  | 1.0 | 6.18 |
-|[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Beta  | 1.0 | 7.2.0 |
+|[ARM64 (Surface Pro 12)](/ARM64/sp12.md) | Beta  | 1.0 | 7.2.0 |
 | WSL2 Kernel | Beta | - | 6.18 |
 
 
