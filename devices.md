@@ -15,7 +15,7 @@ Click on the device for installation instructions and details.
 
 | **Device**  | **Status**| **Version** | **Linux Kernel** |
 |--------------|-------|-----|-----|
-|AMD64 (Intel based Chipsets) | Alpha  | 1.0 | 6.18 |
-|[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Upstream  | [1.0](https://images.cybermyth.dev/arm64/sp12/7.2) | 7.2.0 |
-| [Raspberry Pi (Ice Pi)](ARM64/rpi.md) | Alpha | 1.0 | 6.18 |
+|AMD64 (Intel based Chipsets) | Alpha  | 1.0 | 6.18.4 |
+|[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Upstream  | [1.0](https://images.cybermyth.dev/arm64/sp12/cybermyth-1.0) | 7.2.0 |
+| [Raspberry Pi (Ice Pi)](ARM64/rpi.md) | Alpha | 1.0 | 6.18.4 |
 | WSL2 Kernel | Beta | - | 6.18 |
