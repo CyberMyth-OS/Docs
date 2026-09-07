@@ -19,3 +19,11 @@ Click on the device for installation instructions and details.
 |[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Upstream  | [1.0](https://images.cybermyth.dev/arm64/sp12/cybermyth-1.0) | 7.2.3 |
 | [Raspberry Pi (Ice Pi)](ARM64/rpi.md) | Alpha | 1.0 | 6.18.4 |
 | [WSL2 Kernel](https://github.com/CyberMyth-OS/WSL2-Linux-Kernel) | Beta | - | [6.18.35](https://github.com/CyberMyth-OS/WSL2-Linux-Kernel/releases/tag/Linux-6.18.y) |
+
+
+## Support
+- Report bugs:
+  - AMD64: [GitHub Issues](https://github.com/CyberMyth-OS/CyberMyth-Linux/issues)
+  - Surface Pro 12 inch (1st ed): [GitHub Issues](https://github.com/CyberMyth-OS/Surface-Pro-12/issues)
+  - WSL: [GitHub Issues](https://github.com/CyberMyth-OS/WSL2-Linux-Kernel/issues)
+- Email: <cybermyth@mystichackers.com>
