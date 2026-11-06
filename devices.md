@@ -16,7 +16,7 @@ Click on the device for installation instructions and details.
 | **Device**  | **Status**| **Version** | **Linux Kernel** |
 |--------------|-------|-----|-----|
 |AMD64 (Intel based Chipsets) | Upstream  | [1.0](https://images.cybermyth.dev/amd64/cybermyth-1.0/) | 6.18.49 |
-|[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Upstream  | [1.0](https://images.cybermyth.dev/arm64/sp12/cybermyth-1.0) | 7.2.3 |
+|[ARM64 (Surface Pro 12)](ARM64/sp12.md) | Upstream  | [2026](https://images.cybermyth.dev/arm64/sp12/cybermyth-2026) | 7.3.1 |
 | [Raspberry Pi (Ice Pi)](ARM64/rpi.md) | Alpha | 1.0 | 6.18.4 |
 | [WSL2 Kernel](https://github.com/CyberMyth-OS/WSL2-Linux-Kernel) | Beta | - | [6.18.35](https://github.com/CyberMyth-OS/WSL2-Linux-Kernel/releases/tag/Linux-6.18.y) |
 
